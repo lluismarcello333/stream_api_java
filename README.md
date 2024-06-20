@@ -1,7 +1,7 @@
 # Stream API Java - Principais Métodos
 
 Vamos praticar e aprofundar os conhecimentos na poderosa Stream API do Java!<br>
-Segue abaixo uma lista de desafios envolvendo operações com streams para exercitar suas habilidades e criatividade.
+Segue abaixo uma lista de desafios envolvendo operações com streams para exercitar habilidades e criatividade.
 
 Para todos os desafios, utilizem a lista de números inteiros fornecida:
 
